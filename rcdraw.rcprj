@@ -1,0 +1,8 @@
+RCBASIC_STUDIO:1.0
+PROJECT_NAME:rcDraw
+PROJECT_MAIN:rcdraw.bas
+AUTHOR:johnno56
+WEBSITE:https://github.com/johnno1956/sprite-editor
+DESCRIPTION:Sprite Editor written in the RCBasic programming language
+SOURCE_REL:rcdraw.bas
+SOURCE_REL:undo.bas
